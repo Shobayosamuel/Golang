@@ -9,7 +9,7 @@ func changeName(val *string) {
 	*val = strings.ToUpper(*val)
 }
 
-func main() {
+func testi() {
 	// var  name string
 	// var namePointer *string
 	// name = "Samuel"
